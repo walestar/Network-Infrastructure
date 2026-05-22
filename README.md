@@ -26,7 +26,7 @@ This was built entirely from scratch in Cisco Packet Tracer using real Cisco IOS
  
 ## 🗺️ Network Topology
  
-![Network Topology](screenshots/topology.png)
+![Network Topology](topology.png)
  
 ---
  
@@ -179,11 +179,11 @@ This project was designed to mirror real AWS VPC architecture. Every component h
  
 | Description | Screenshot |
 |---|---|
-| Network Topology | ![topology](screenshots/topology.png) |
-| DHCP Assignment | ![dhcp](screenshots/dhcp.png) |
-| ACL Hit Counts | ![acl](screenshots/acl-hits.png) |
-| SSH Session | ![ssh](screenshots/ssh.png) |
-| STP Blocking Port | ![stp](screenshots/stp.png) |
+| Network Topology | ![topology](topology.png) |
+| DHCP Assignment | ![dhcp](dhcp.png) |
+| ACL Hit Counts | ![acl](acl-hits.png) |
+| SSH Session | ![ssh](ssh.png) |
+| STP Blocking Port | ![stp](stp.png) |
  
 ---
  

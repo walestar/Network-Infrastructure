@@ -6,7 +6,7 @@
  
 ## 📋 Project Overview
  
-TrinTech Solutions is a small business migrating from paper-based operations to a fully digital environment. This project covers the complete design and implementation of their network infrastructure — including on-premises network segmentation, access control, remote management, and a cloud-ready architecture that mirrors AWS VPC design principles.
+TrinTech Solutions is a small business migrating from paper-based operations to a fully digital environment. This project covers the complete design and implementation of their network infrastructure which includes on-premises network segmentation, access control, remote management, and a cloud-ready architecture that mirrors AWS VPC design principles.
  
 This was built entirely from scratch in Cisco Packet Tracer using real Cisco IOS CLI commands sourced directly from Cisco documentation.
  
@@ -205,7 +205,7 @@ trintech-network-infrastructure/
  
 ## 💡 What I Learned
  
-This project gave me hands-on experience with the full lifecycle of designing and implementing a network from business requirements to working infrastructure. The most valuable lessons were understanding why decisions are made — not just how to execute commands. Designing the security policy before writing ACL rules, planning the IP scheme before configuring anything, and troubleshooting failures methodically by checking each layer in order are habits this project built in me that no classroom exercise could replicate.
+This project gave me hands-on experience with the full lifecycle of designing and implementing a network from business requirements to working infrastructure. The most valuable lessons were understanding why decisions are made and not just how to execute commands. Designing the security policy before writing ACL rules, planning the IP scheme before configuring anything, and troubleshooting failures methodically by checking each layer in order are habits this project built in me that no classroom exercise could replicate.
  
 ---
  

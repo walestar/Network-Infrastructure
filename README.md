@@ -190,15 +190,15 @@ This project was designed to mirror real AWS VPC architecture. Every component h
 ## 📁 Repository Structure
  
 ```
-trintech-network-infrastructure/
+Network-Infrastructure/
 ├── README.md
-├── trintech-network.pkt        ← Cisco Packet Tracer file
-└── screenshots/
-    ├── topology.png
-    ├── dhcp.png
-    ├── acl-hits.png
-    ├── ssh.png
-    └── stp.png
+├── TrinTech Network.pkt        ← Cisco Packet Tracer file
+├── DHCP-Assignment.png
+├── SSH.png
+├── Spanning-Tree.png
+├── ACLs.png
+├── Trintech-Simulated-Network.png
+    
 ```
  
 ---

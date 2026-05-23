@@ -26,7 +26,7 @@ This was built entirely from scratch in Cisco Packet Tracer using real Cisco IOS
  
 ## 🗺️ Network Topology
  
-![Network Topology](Trintech Simulated Network.png)
+![Network Topology](Trintech-Simulated-Network.png)
  
 ---
  
@@ -179,11 +179,11 @@ This project was designed to mirror real AWS VPC architecture. Every component h
  
 | Description | Screenshot |
 |---|---|
-| Network Topology | ![topology](Trintech Simulated Network.png) |
-| DHCP Assignment | ![dhcp](DHCP assignment.png) |
+| Network Topology | ![topology](Trintech-Simulated-Network.png) |
+| DHCP Assignment | ![dhcp](DHCP-Assignment.png) |
 | ACL Hit Counts | ![acl](ACLs.png) |
 | SSH Session | ![ssh](SSH.png) |
-| STP Blocking Port | ![stp](Spanning tree.png) |
+| STP Blocking Port | ![stp](Spanning-Tree.png) |
  
 ---
  

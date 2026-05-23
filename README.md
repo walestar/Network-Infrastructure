@@ -192,7 +192,7 @@ This project was designed to mirror real AWS VPC architecture. Every component h
 ```
 Network-Infrastructure/
 ├── README.md
-├── TrinTech Network.pkt        ← Cisco Packet Tracer file
+├── TrinTech-Simulated-Network.pkt        ← Cisco Packet Tracer file
 ├── DHCP-Assignment.png
 ├── SSH.png
 ├── Spanning-Tree.png
